@@ -1,4 +1,4 @@
 javadata
 ========
 
-Java algorithms and data structures 
+Common data structures and algorithms in Java. 
